@@ -1,6 +1,6 @@
 # Password-Manager
 
-The code you provided is written in Python and implements a simple account management system. Here's a breakdown of what each part does:
+The code you provided is written in Python and implements an account management system. Here's a breakdown of what each part does:
 
 Imports:
 
